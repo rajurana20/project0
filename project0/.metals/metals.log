@@ -1,0 +1,339 @@
+2021.01.11 12:14:27 INFO  Started: Metals version 0.9.8 in workspace '/home/raju/projects/project0/project0' for client vscode.
+2021.01.11 12:14:27 INFO  time: initialize in 0.54s
+2021.01.11 12:14:28 WARN  Build server is not auto-connectable.
+2021.01.11 12:14:31 INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals1122265024135083388/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2021.01.11 12:14:31 WARN  no build target for: /home/raju/projects/project0/project0/project/metals.sbt
+2021.01.11 12:14:31 WARN  no build target for: /home/raju/projects/project0/project0/project/project/metals.sbt
+2021.01.11 12:14:32 INFO  skipping build import with status 'Started'
+2021.01.11 12:14:34 INFO  [info] welcome to sbt 1.4.4 (Private Build Java 1.8.0_275)
+2021.01.11 12:14:37 WARN  no build target for: /home/raju/projects/project0/project0/src/main/scala/example/Hello.scala
+2021.01.11 12:14:40 INFO  [info] loading settings for project project0-build-build from metals.sbt ...
+2021.01.11 12:14:41 INFO  no build target: using presentation compiler with only scala-library
+2021.01.11 12:14:42 INFO  [info] loading project definition from /home/raju/projects/project0/project0/project/project
+2021.01.11 12:14:45 INFO  [info] loading settings for project project0-build from metals.sbt ...
+2021.01.11 12:14:45 INFO  [info] loading project definition from /home/raju/projects/project0/project0/project
+2021.01.11 12:14:49 INFO  [success] Generated .bloop/project0-build.json
+2021.01.11 12:14:49 INFO  [info] compiling 1 Scala source to /home/raju/projects/project0/project0/project/target/scala-2.12/sbt-1.0/classes ...
+2021.01.11 12:14:54 INFO  [info] done compiling
+2021.01.11 12:14:54 INFO  [success] Total time: 8 s, completed Jan 11, 2021 12:14:54 PM
+2021.01.11 12:14:58 INFO  [info] loading settings for project root from build.sbt ...
+2021.01.11 12:14:58 INFO  [info] set current project to project0 (in build file:/home/raju/projects/project0/project0/)
+2021.01.11 12:14:59 INFO  [success] Generated .bloop/root-test.json
+2021.01.11 12:14:59 INFO  [success] Generated .bloop/root.json
+2021.01.11 12:14:59 INFO  [success] Total time: 1 s, completed Jan 11, 2021 12:14:59 PM
+2021.01.11 12:14:59 INFO  sbt bloopInstall exit: 0
+2021.01.11 12:14:59 INFO  time: ran 'sbt bloopInstall' in 28s
+2021.01.11 12:14:59 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher9053569069603497874/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from '/home/raju/projects/project0/project0/.bloop'...
+[0m[32m[D][0m Loading project from '/home/raju/projects/project0/project0/.bloop/root.json'
+[0m[32m[D][0m Loading project from '/home/raju/projects/project0/project0/.bloop/root-test.json'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Missing analysis file for project 'root'
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher9053569069603497874/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher9053569069603497874/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.11 12:14:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/raju/.cache/metals/bsp.trace.json
+2021.01.11 12:14:59 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher2926157673037624857/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher2926157673037624857/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher2926157673037624857/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.11 12:15:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/raju/.cache/metals/bsp.trace.json
+2021.01.11 12:15:00 INFO  time: connected to build server in 0.33s
+2021.01.11 12:15:00 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.11 12:15:01 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.11 12:15:05 INFO  time: indexed workspace in 5.27s
+2021.01.11 12:15:05 INFO  compiling root (1 scala source)
+2021.01.11 12:15:10 INFO  time: compiled root in 5.27s
+2021.01.11 12:15:10 ERROR Unexpected error when compiling root: '/home/raju/projects/project0/project0/src/main/scala/example/Hello.scala (No such file or directory)'
+2021.01.11 12:16:56 INFO  compiling root (1 scala source)
+2021.01.11 12:16:56 INFO  time: compiled root in 0.82s
+2021.01.11 12:17:41 INFO  compiling root (1 scala source)
+2021.01.11 12:17:41 INFO  time: compiled root in 0.68s
+Jan 11, 2021 12:18:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 81
+Jan 11, 2021 12:18:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 90
+2021.01.11 12:18:28 INFO  compiling root (1 scala source)
+2021.01.11 12:18:28 INFO  time: compiled root in 0.73s
+2021.01.11 12:21:09 INFO  compiling root (1 scala source)
+2021.01.11 12:21:10 INFO  time: compiled root in 1.04s
+Jan 11, 2021 12:22:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 236
+Jan 11, 2021 12:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 265
+2021.01.11 12:23:27 INFO  compiling root (1 scala source)
+2021.01.11 12:23:28 INFO  time: compiled root in 1.08s
+Jan 11, 2021 12:23:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 327
+Jan 11, 2021 12:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 350
+Jan 11, 2021 12:24:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 398
+Jan 11, 2021 12:24:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 495
+Jan 11, 2021 12:24:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 567
+Jan 11, 2021 12:25:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 597
+Jan 11, 2021 12:25:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 657
+2021.01.11 12:25:30 INFO  compiling root (1 scala source)
+2021.01.11 12:25:32 INFO  time: compiled root in 1.28s
+2021.01.11 12:25:43 INFO  compiling root (1 scala source)
+2021.01.11 12:25:44 INFO  time: compiled root in 1.15s
+Jan 11, 2021 12:25:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 712
+2021.01.11 12:26:53 INFO  compiling root (1 scala source)
+2021.01.11 12:26:54 INFO  time: compiled root in 1.15s
+2021.01.11 12:53:06 INFO  compiling root (1 scala source)
+2021.01.11 12:53:06 INFO  time: compiled root in 0.31s
+2021.01.11 12:53:28 INFO  compiling root (1 scala source)
+2021.01.11 12:53:28 INFO  time: compiled root in 0.26s
+2021.01.11 12:53:59 INFO  compiling root (1 scala source)
+2021.01.11 12:54:01 INFO  time: compiled root in 1.51s
+2021.01.11 12:54:17 INFO  compiling root (1 scala source)
+2021.01.11 12:54:17 INFO  time: compiled root in 0.15s
+2021.01.11 12:55:35 INFO  compiling root (1 scala source)
+2021.01.11 12:55:37 INFO  time: compiled root in 1.54s
+Jan 11, 2021 12:57:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1312
+Jan 11, 2021 12:58:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1503
+Jan 11, 2021 12:58:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1553
+Jan 11, 2021 12:58:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1555
+2021.01.11 12:59:23 INFO  compiling root (1 scala source)
+2021.01.11 12:59:24 INFO  time: compiled root in 1.03s
+2021.01.11 13:07:01 INFO  compiling root (1 scala source)
+2021.01.11 13:07:01 INFO  time: compiled root in 0.22s
+2021.01.11 13:08:12 INFO  compiling root (1 scala source)
+2021.01.11 13:08:12 INFO  time: compiled root in 0.44s
+2021.01.11 13:09:18 INFO  compiling root (1 scala source)
+2021.01.11 13:09:18 INFO  time: compiled root in 0.37s
+2021.01.11 13:09:18 INFO  compiling root (1 scala source)
+2021.01.11 13:09:18 INFO  time: compiled root in 61ms
+2021.01.11 13:11:29 INFO  compiling root (1 scala source)
+2021.01.11 13:11:29 INFO  time: compiled root in 0.33s
+2021.01.11 13:11:54 INFO  compiling root (1 scala source)
+2021.01.11 13:11:54 INFO  time: compiled root in 0.17s
+2021.01.11 13:11:54 INFO  compiling root (1 scala source)
+2021.01.11 13:11:54 INFO  time: compiled root in 0.13s
+Jan 11, 2021 1:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1841
+Jan 11, 2021 1:12:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1869
+2021.01.11 13:13:26 INFO  compiling root (2 scala sources)
+2021.01.11 13:13:26 INFO  time: compiled root in 0.23s
+2021.01.11 13:13:26 INFO  compiling root (2 scala sources)
+2021.01.11 13:13:26 INFO  time: compiled root in 0.24s
+2021.01.11 13:14:54 ERROR code navigation does not work for the file '/home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala' because the SemanticDB file '/home/raju/projects/project0/project0/.bloop/root/bloop-bsp-clients-classes/classes-Metals-qArWdc3iR5S3Y3CLKUO21A==/META-INF/semanticdb/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.11 13:14:54 INFO  compiling root (2 scala sources)
+2021.01.11 13:14:54 INFO  time: compiled root in 0.43s
+2021.01.11 13:14:56 INFO  compiling root (2 scala sources)
+2021.01.11 13:14:56 INFO  time: compiled root in 0.39s
+2021.01.11 13:16:12 INFO  compiling root (2 scala sources)
+2021.01.11 13:16:12 INFO  time: compiled root in 0.35s
+Jan 11, 2021 1:16:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2054
+2021.01.11 13:17:36 INFO  compiling root (2 scala sources)
+2021.01.11 13:17:36 INFO  time: compiled root in 0.36s
+Jan 11, 2021 1:17:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2117
+2021.01.11 13:17:46 INFO  compiling root (2 scala sources)
+2021.01.11 13:17:46 INFO  time: compiled root in 0.54s
+2021.01.11 13:18:18 INFO  compiling root (2 scala sources)
+2021.01.11 13:18:18 INFO  time: compiled root in 0.35s
+2021.01.11 13:19:23 INFO  compiling root (2 scala sources)
+2021.01.11 13:19:23 INFO  time: compiled root in 0.15s
+2021.01.11 13:20:07 INFO  compiling root (2 scala sources)
+2021.01.11 13:20:07 INFO  time: compiled root in 0.13s
+Jan 11, 2021 1:20:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2294
+2021.01.11 13:20:26 INFO  compiling root (2 scala sources)
+2021.01.11 13:20:26 INFO  time: compiled root in 0.42s
+Jan 11, 2021 1:20:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2342
+2021.01.11 13:21:30 INFO  compiling root (2 scala sources)
+2021.01.11 13:21:30 INFO  time: compiled root in 0.17s
+2021.01.11 13:21:30 INFO  compiling root (2 scala sources)
+2021.01.11 13:21:30 INFO  time: compiled root in 90ms
+2021.01.11 13:21:32 INFO  shutting down Metals
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2021.01.11 13:21:32 INFO  Shut down connection with build server.
+2021.01.11 13:21:32 INFO  Shut down connection with build server.
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2021.01.11 13:22:02 INFO  Started: Metals version 0.9.8 in workspace '/home/raju/projects/project0/project0' for client vscode.
+2021.01.11 13:22:03 INFO  time: initialize in 1.03s
+2021.01.11 13:22:04 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher8622456945907589638/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.11 13:22:04 WARN  no build target for: /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala
+2021.01.11 13:22:04 WARN  no build target for: /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/controller/UserController.scala
+2021.01.11 13:22:05 INFO  skipping build import with status 'Installed'
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+2021.01.11 13:22:09 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/home/raju/projects/project0/project0/.bloop'...
+[0m[32m[D][0m Loading project from '/home/raju/projects/project0/project0/.bloop/root.json'
+[0m[32m[D][0m Loading project from '/home/raju/projects/project0/project0/.bloop/root-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.4.
+[0m[32m[D][0m   => /home/raju/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[0m[32m[D][0m   => /home/raju/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.16.0/jline-3.16.0.jar
+[0m[32m[D][0m   => /home/raju/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.4/scala-compiler-2.13.4.jar
+[0m[32m[D][0m   => /home/raju/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar
+[0m[32m[D][0m   => /home/raju/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.4/scala-reflect-2.13.4.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'root-test', 'root'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Loading previous analysis for 'root' from '/home/raju/projects/project0/project0/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher8622456945907589638/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher8622456945907589638/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.11 13:22:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/raju/.cache/metals/bsp.trace.json
+2021.01.11 13:22:14 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher7651573440178240131/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher7651573440178240131/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher7651573440178240131/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.11 13:22:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/raju/.cache/metals/bsp.trace.json
+2021.01.11 13:22:15 INFO  time: connected to build server in 10s
+2021.01.11 13:22:15 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.11 13:22:15 INFO  time: imported build in 0.23s
+2021.01.11 13:22:17 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.11 13:22:17 INFO  time: indexed workspace in 2.71s
+2021.01.11 13:22:20 INFO  compiling root (2 scala sources)
+2021.01.11 13:22:27 INFO  time: compiled root in 6.63s
+Jan 11, 2021 1:22:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jan 11, 2021 1:23:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+2021.01.11 13:23:35 INFO  compiling root (2 scala sources)
+2021.01.11 13:23:35 INFO  time: compiled root in 0.66s
+2021.01.11 13:23:45 ERROR code navigation does not work for the file '/home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala' because the SemanticDB file '/home/raju/projects/project0/project0/.bloop/root/bloop-bsp-clients-classes/classes-Metals-qoey-DwoQDqfyV9oe6gfWg==/META-INF/semanticdb/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.11 13:23:45 INFO  compiling root (2 scala sources)
+2021.01.11 13:23:45 INFO  time: compiled root in 0.14s
+Jan 11, 2021 1:23:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 103
+2021.01.11 13:23:59 ERROR code navigation does not work for the file '/home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala' because the SemanticDB file '/home/raju/projects/project0/project0/.bloop/root/bloop-bsp-clients-classes/classes-Metals-qoey-DwoQDqfyV9oe6gfWg==/META-INF/semanticdb/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.11 13:24:19 INFO  compiling root (2 scala sources)
+2021.01.11 13:24:19 INFO  time: compiled root in 0.1s
+2021.01.11 13:24:19 INFO  compiling root (2 scala sources)
+2021.01.11 13:24:19 INFO  time: compiled root in 43ms
+2021.01.11 13:24:34 INFO  compiling root (2 scala sources)
+2021.01.11 13:24:34 INFO  time: compiled root in 83ms
+2021.01.11 13:24:34 INFO  compiling root (2 scala sources)
+2021.01.11 13:24:34 INFO  time: compiled root in 41ms
+Jan 11, 2021 1:25:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 146
+2021.01.11 13:25:36 INFO  compiling root (2 scala sources)
+2021.01.11 13:25:36 INFO  time: compiled root in 0.78s
+2021.01.11 13:25:36 INFO  compiling root (2 scala sources)
+2021.01.11 13:25:37 INFO  time: compiled root in 0.45s
+2021.01.11 13:26:15 INFO  compiling root (2 scala sources)
+2021.01.11 13:26:15 INFO  time: compiled root in 0.81s
+2021.01.11 13:26:15 INFO  compiling root (2 scala sources)
+2021.01.11 13:26:16 INFO  time: compiled root in 0.62s
+2021.01.11 13:26:56 INFO  compiling root (2 scala sources)
+2021.01.11 13:26:56 INFO  time: compiled root in 0.56s
+2021.01.11 13:27:00 INFO  compiling root (2 scala sources)
+2021.01.11 13:27:00 INFO  time: compiled root in 0.2s
+Jan 11, 2021 1:27:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 222
+2021.01.11 13:27:55 INFO  compiling root (2 scala sources)
+2021.01.11 13:28:03 INFO  time: compiled root in 7.38s
+Jan 11, 2021 2:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 315
+2021.01.11 14:09:39 INFO  compiling root (1 scala source)
+2021.01.11 14:09:39 INFO  time: compiled root in 0.56s
+Jan 11, 2021 2:11:30 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Jan 11, 2021 2:11:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 529
+2021.01.11 14:11:40 INFO  compiling root (1 scala source)
+2021.01.11 14:11:40 INFO  time: compiled root in 0.33s
+2021.01.11 14:11:40 INFO  compiling root (1 scala source)
+2021.01.11 14:11:40 INFO  time: compiled root in 0.21s
+2021.01.11 14:12:03 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:03 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:05 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:05 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:10 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:10 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:12 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:12 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/cli/UserCli.scala:52:70: stale bloop error: not found: value users
+              if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase(users) => {
+                                                                     ^^^^^
+2021.01.11 14:12:14 INFO  compiling root (1 scala source)
+2021.01.11 14:12:16 INFO  time: compiled root in 1.51s
+Jan 11, 2021 2:34:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 651
+2021.01.11 14:35:45 INFO  compiling root (1 scala source)
+2021.01.11 14:35:45 INFO  time: compiled root in 0.25s
+2021.01.11 14:35:45 INFO  compiling root (1 scala source)
+2021.01.11 14:35:45 INFO  time: compiled root in 69ms
+2021.01.11 14:36:27 INFO  compiling root (1 scala source)
+2021.01.11 14:36:27 INFO  time: compiled root in 0.35s
+Jan 11, 2021 2:37:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 812
+2021.01.11 14:37:47 INFO  compiling root (2 scala sources)
+2021.01.11 14:37:47 INFO  time: compiled root in 0.21s
+2021.01.11 14:38:20 INFO  compiling root (2 scala sources)
+2021.01.11 14:38:22 INFO  time: compiled root in 2.2s
+2021.01.11 14:40:34 INFO  compiling root (1 scala source)
+2021.01.11 14:40:35 INFO  time: compiled root in 1.05s
