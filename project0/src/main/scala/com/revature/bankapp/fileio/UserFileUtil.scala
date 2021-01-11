@@ -3,15 +3,15 @@ package com.revature.bankapp.fileio
 import scala.io.BufferedSource
 import scala.io.Source
 import java.io.File
+import com.revature.bankapp.model.User
+import java.io.FileWriter
 
-/**
-  * Provides basic file functionality to other parts of our application
+/** Provides basic file functionality to other parts of our application
   */
 object UserFileUtil {
 
-  /**
-    * Gets the text content from a file
-    * 
+  /** Gets the text content from a file
+    *
     * We'll introduce a tool in Scala that's good for dealing with content that may or may
     * not be successfully retrieved
     *
@@ -23,12 +23,12 @@ object UserFileUtil {
     //We open files using Source.fromFile, this will get us a BufferedSource.
     // Whenever we open files, we want to be sure to close them
     // When dealing with files, we may run into Exceptions, so we use a try-finally to close them
-    var openedFile : BufferedSource = null // declare our openedFile var
+    var openedFile: BufferedSource = null // declare our openedFile var
     // we need to declare openedFile outside of the try block, otherwise it will only exist in the
     // scope of the try block and won't be accessible in the finally block
 
     try {
-      openedFile = Source.fromFile(filename)  
+      openedFile = Source.fromFile(filename)
       // Scala returns the last line of this try block, since there is nothing below the try-finally
       openedFile.getLines().mkString(sep)
     } finally {
@@ -37,8 +37,7 @@ object UserFileUtil {
     }
   }
 
-  /**
-    * Returns an array containing all top level filename
+  /** Returns an array containing all top level filename
     *
     * @return
     */
@@ -47,9 +46,10 @@ object UserFileUtil {
     //we're going to filter the list of java.io.Files, only including files that are files, not directories
     //This will leave us with an array of java.io.Files
     //We then map that array, turning each java.io.File into a String -- its filename
-    currentDir.listFiles()
-      .filter((f: File) => {f.isFile()})
-      .map((f: File) => {f.getName()})
+    currentDir
+      .listFiles()
+      .filter((f: File) => { f.isFile() })
+      .map((f: File) => { f.getName() })
 
     //shorthand version of the above:
     //currentDir.listFiles().filter(_.isFile()).map(_.getName())
@@ -63,6 +63,12 @@ object UserFileUtil {
     //   file.getName()
     // }
     // currentDir.listFiles().filter(checkIfFile).map(fileToStringFilename)
+  }
+  def addUser(fileName: String, user: User): Unit = {
+    val fw = new FileWriter(fileName, true)
+    try {
+      fw.write(user.toString())
+    } finally fw.close()
   }
 
 }

@@ -46,12 +46,12 @@ class UserCli {
             continueMenuLoop = false
           }
           case commandArgPattern(cmd, arg)
-              if cmd.equalsIgnoreCase("addfive") => {
-            //addFive(arg)
+              if cmd.equalsIgnoreCase("add")&& arg.equalsIgnoreCase("user") => {
+                UserFileUtil.addUser("user.csv",setUserInfo())
           }
           case commandArgPattern(cmd, arg)
               if cmd.equalsIgnoreCase("view")&& arg.equalsIgnoreCase("users") => {
-            printTextContent("user.txt")
+            printTextContent("user.csv")
           }
           case commandArgPattern(cmd, arg) => {
             println(
@@ -74,4 +74,24 @@ class UserCli {
         }
       }
     }
+
+    def setUserInfo():User ={
+      println("Enter First Name")
+      var firstName = StdIn.readLine()
+      println("Enter last name")
+      var lastName = StdIn.readLine()
+      println("Enter street Address")
+      var street = StdIn.readLine()
+      println("Enter City")
+      var city = StdIn.readLine()
+      println("Enter State")
+      var state = StdIn.readLine()
+      println("Enter phone number")
+      var phone= StdIn.readLong()
+      println("Enter SSN no dashed or special character")
+      var ssn = StdIn.readLong()
+      var user : User = new User(firstName,lastName,street,city,state,phone,ssn);
+      return user;
+    }
+
 }

@@ -337,3 +337,320 @@ WARNING: Unmatched cancel notification for request id 812
 2021.01.11 14:38:22 INFO  time: compiled root in 2.2s
 2021.01.11 14:40:34 INFO  compiling root (1 scala source)
 2021.01.11 14:40:35 INFO  time: compiled root in 1.05s
+2021.01.11 14:53:39 INFO  compiling root (1 scala source)
+2021.01.11 14:53:39 INFO  time: compiled root in 0.2s
+Jan 11, 2021 2:55:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1448
+Jan 11, 2021 2:56:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1595
+2021.01.11 14:57:35 INFO  compiling root (1 scala source)
+2021.01.11 14:57:35 INFO  time: compiled root in 0.13s
+Jan 11, 2021 2:57:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1823
+Jan 11, 2021 2:58:36 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Jan 11, 2021 2:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2072
+Jan 11, 2021 2:58:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2081
+Jan 11, 2021 2:59:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2164
+Jan 11, 2021 2:59:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2207
+Jan 11, 2021 2:59:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2206
+Jan 11, 2021 2:59:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2208
+Jan 11, 2021 2:59:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2221
+2021.01.11 14:59:32 INFO  compiling root (1 scala source)
+2021.01.11 14:59:32 INFO  time: compiled root in 0.16s
+2021.01.11 15:00:05 INFO  compiling root (1 scala source)
+2021.01.11 15:00:05 INFO  time: compiled root in 0.95s
+2021.01.11 15:00:23 INFO  compiling root (1 scala source)
+2021.01.11 15:00:25 INFO  time: compiled root in 1.84s
+Jan 11, 2021 3:00:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2397
+2021.01.11 15:00:34 INFO  compiling root (1 scala source)
+2021.01.11 15:00:34 INFO  time: compiled root in 0.26s
+2021.01.11 15:00:48 INFO  compiling root (1 scala source)
+2021.01.11 15:00:48 INFO  time: compiled root in 0.14s
+2021.01.11 15:03:20 INFO  compiling root (2 scala sources)
+2021.01.11 15:03:20 INFO  time: compiled root in 0.16s
+2021.01.11 15:03:25 INFO  compiling root (2 scala sources)
+2021.01.11 15:03:25 INFO  time: compiled root in 0.17s
+2021.01.11 15:03:35 INFO  compiling root (2 scala sources)
+2021.01.11 15:03:35 INFO  time: compiled root in 0.26s
+2021.01.11 15:03:35 INFO  compiling root (2 scala sources)
+2021.01.11 15:03:35 INFO  time: compiled root in 0.2s
+2021.01.11 15:03:35 INFO  compiling root (2 scala sources)
+2021.01.11 15:03:35 INFO  time: compiled root in 0.17s
+2021.01.11 15:03:41 INFO  compiling root (2 scala sources)
+2021.01.11 15:03:41 INFO  time: compiled root in 0.23s
+2021.01.11 15:03:44 INFO  compiling root (2 scala sources)
+2021.01.11 15:03:44 INFO  time: compiled root in 0.26s
+2021.01.11 15:04:10 INFO  compiling root (2 scala sources)
+2021.01.11 15:04:10 INFO  time: compiled root in 0.16s
+2021.01.11 15:04:10 INFO  compiling root (2 scala sources)
+2021.01.11 15:04:10 INFO  time: compiled root in 87ms
+2021.01.11 15:04:35 INFO  compiling root (2 scala sources)
+2021.01.11 15:04:36 INFO  time: compiled root in 1.06s
+Jan 11, 2021 3:05:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3007
+Jan 11, 2021 3:05:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3010
+2021.01.11 15:06:23 INFO  compiling root (1 scala source)
+2021.01.11 15:06:23 INFO  time: compiled root in 0.98s
+2021.01.11 15:06:57 INFO  compiling root (1 scala source)
+2021.01.11 15:06:57 INFO  time: compiled root in 0.12s
+2021.01.11 15:07:11 INFO  compiling root (1 scala source)
+2021.01.11 15:07:11 INFO  time: compiled root in 0.99s
+2021.01.11 15:08:02 INFO  compiling root-test (1 scala source)
+2021.01.11 15:08:02 INFO  time: compiled root-test in 0.22s
+2021.01.11 15:08:21 INFO  compiling root (1 scala source)
+2021.01.11 15:08:21 INFO  time: compiled root in 0.91s
+Jan 11, 2021 3:17:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3224
+Jan 11, 2021 3:17:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3269
+2021.01.11 15:19:46 INFO  compiling root (1 scala source)
+2021.01.11 15:19:46 INFO  time: compiled root in 0.69s
+2021.01.11 15:19:46 INFO  compiling root (1 scala source)
+2021.01.11 15:19:46 INFO  time: compiled root in 88ms
+2021.01.11 15:20:01 INFO  compiling root (1 scala source)
+2021.01.11 15:20:01 INFO  time: compiled root in 0.64s
+2021.01.11 15:20:01 INFO  compiling root (1 scala source)
+2021.01.11 15:20:01 INFO  time: compiled root in 94ms
+2021.01.11 15:20:29 INFO  compiling root (1 scala source)
+2021.01.11 15:20:29 INFO  time: compiled root in 0.69s
+2021.01.11 15:20:29 INFO  compiling root (1 scala source)
+2021.01.11 15:20:29 INFO  time: compiled root in 0.13s
+Jan 11, 2021 3:20:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3716
+Jan 11, 2021 3:20:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3719
+Jan 11, 2021 3:21:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3743
+2021.01.11 15:21:52 INFO  compiling root (2 scala sources)
+2021.01.11 15:21:52 INFO  time: compiled root in 0.25s
+Jan 11, 2021 3:22:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4000
+Jan 11, 2021 3:22:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4064
+2021.01.11 15:22:12 INFO  compiling root (2 scala sources)
+2021.01.11 15:22:15 INFO  time: compiled root in 2.53s
+2021.01.11 15:24:36 INFO  compiling root (1 scala source)
+2021.01.11 15:24:36 INFO  time: compiled root in 0.89s
+Jan 11, 2021 3:26:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4228
+Jan 11, 2021 3:26:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4253
+2021.01.11 15:27:50 INFO  compiling root (1 scala source)
+2021.01.11 15:27:50 INFO  time: compiled root in 87ms
+2021.01.11 15:30:30 INFO  compiling root (1 scala source)
+2021.01.11 15:30:30 INFO  time: compiled root in 0.12s
+2021.01.11 15:30:30 INFO  compiling root (1 scala source)
+2021.01.11 15:30:30 INFO  time: compiled root in 62ms
+2021.01.11 15:30:43 INFO  compiling root (1 scala source)
+2021.01.11 15:30:44 INFO  time: compiled root in 1.2s
+2021.01.11 15:30:52 INFO  compiling root (1 scala source)
+2021.01.11 15:30:52 INFO  time: compiled root in 63ms
+2021.01.11 15:30:52 INFO  compiling root (1 scala source)
+2021.01.11 15:30:52 INFO  time: compiled root in 19ms
+2021.01.11 15:31:48 INFO  compiling root (1 scala source)
+2021.01.11 15:31:49 INFO  time: compiled root in 1.27s
+2021.01.11 15:34:00 INFO  compiling root (1 scala source)
+2021.01.11 15:34:00 INFO  time: compiled root in 0.14s
+2021.01.11 15:34:05 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:05 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:06 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:06 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:06 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:06 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:06 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:06 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:07 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:07 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:07 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:07 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:07 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:07 INFO  /home/raju/projects/project0/project0/src/main/scala/com/revature/bankapp/fileio/UserFileUtil.scala:67:18: stale bloop error: not found: type FileWriter
+    val fw = new FileWriter(fileName, true)
+                 ^^^^^^^^^^
+2021.01.11 15:34:18 INFO  compiling root (1 scala source)
+2021.01.11 15:34:18 INFO  time: compiled root in 0.13s
+2021.01.11 15:34:18 INFO  compiling root (1 scala source)
+2021.01.11 15:34:18 INFO  time: compiled root in 56ms
+Jan 11, 2021 3:34:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = (fileName, true)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = (fileName, true)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable
+found that scala.meta.internal.trees.`package`.XtensionTreesType(tpe).isConstructable is false
+where tpe = (fileName, true)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Init$.internal$251(Trees.scala:447)
+	at scala.meta.Init$.apply(Trees.scala:446)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$initRest$1(ScalametaParser.scala:4321)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.initRest(ScalametaParser.scala:4305)
+	at scala.meta.internal.parsers.ScalametaParser.initInsideTemplate(ScalametaParser.scala:4293)
+	at scala.meta.internal.parsers.ScalametaParser.readInit$1(ScalametaParser.scala:4376)
+	at scala.meta.internal.parsers.ScalametaParser.templateParents(ScalametaParser.scala:4378)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4419)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4405)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$4(ScalametaParser.scala:2652)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2652)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:706)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:716)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2617)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2615)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2599)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2579)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$13(ScalametaParser.scala:2177)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$1(ScalametaParser.scala:2177)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:2064)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1974)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:2002)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$1(ScalametaParser.scala:3822)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.patDefOrDcl(ScalametaParser.scala:3808)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3778)
+	at scala.meta.internal.parsers.ScalametaParser.localDef(ScalametaParser.scala:4657)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4684)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2847)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2840)
+	at scala.meta.internal.parsers.ScalametaParser.blockOrCase$1(ScalametaParser.scala:2828)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$3(ScalametaParser.scala:2831)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockExpr$1(ScalametaParser.scala:2831)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2824)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2647)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:706)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:716)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2617)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2615)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2599)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2579)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$13(ScalametaParser.scala:2177)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$1(ScalametaParser.scala:2177)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:2064)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1974)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:2002)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:4000)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+2021.01.11 15:34:30 INFO  compiling root (1 scala source)
+2021.01.11 15:34:30 INFO  time: compiled root in 0.14s
+2021.01.11 15:34:46 INFO  compiling root (1 scala source)
+2021.01.11 15:34:46 INFO  time: compiled root in 0.73s
+Jan 11, 2021 3:50:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4945
+2021.01.11 15:50:48 INFO  compiling root (1 scala source)
+2021.01.11 15:50:48 INFO  time: compiled root in 0.84s
+Jan 11, 2021 3:52:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5076
